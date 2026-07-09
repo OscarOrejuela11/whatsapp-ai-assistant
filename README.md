@@ -1,23 +1,47 @@
 # WhatsApp AI Assistant
 
-An open-source project that helps businesses automate WhatsApp conversations using Artificial Intelligence.
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Flask](https://img.shields.io/badge/Flask-3.0-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+Open-source AI assistant for WhatsApp Business automation powered by Artificial Intelligence.
 
 ## Features
 
-- AI responses
-- REST API
-- WhatsApp integration
-- Conversation history
-- Multi-agent support
-- Easy deployment
+- 🤖 AI Chatbot
+- 📱 WhatsApp Integration
+- 🌐 REST API
+- 🔒 Authentication
+- 📊 Dashboard
+- ⚡ Fast Deployment
+
+## Project Structure
+
+```
+src/
+docs/
+examples/
+```
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python src/app.py
+```
 
 ## Roadmap
 
-- Voice messages
-- CRM integration
-- Calendar booking
-- Payment links
+- Voice Messages
+- Calendar Integration
+- CRM Integration
+- Payment Gateway
+- Analytics
+
+## Contributing
+
+Contributions are welcome!
 
 ## License
 
-MIT
+MIT License
